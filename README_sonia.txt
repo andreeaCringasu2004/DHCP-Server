@@ -33,4 +33,6 @@ Include reguli separate pentru:
 
 3.make all – compilarea ambelor;
 
+
 make clean – ștergerea executabilelor și fișierelor obiect.
+
