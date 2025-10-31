@@ -17,11 +17,11 @@ Cuprins:
 
 Cerinte:
 Lab3 (Comunicare UDP, DHCP Discover, DHCP Offer, incarcare configuratie, generare IP)
-  1. Creati un fisier Makefile care sa permita compilarea automata care sa compileze si headerele create.
-  2. Creati o comunicare UDP Client-Server (Server sa permita conexiunea cu mai multi clienti)
-  3. Incarcati in server, conform fisierului de configurare, detaliile despre acesta.
-  4. Permiteti clientului sa poata trimita mesaje broadcast pentru descoperirea serverului.
-  5. Configurati serverul astfel incat sa identifice mesajul de tip DHCP Discover (mai intai fol o var hardcodata , iar mai tarziu conform tipologiei de mesaj)
+  1. Creati un fisier Makefile care sa permita compilarea automata care sa compileze si headerele create. -SONIA
+  2. Creati o comunicare UDP Client-Server (Server sa permita conexiunea cu mai multi clienti) -SONIA + ANDREEA
+  3. Incarcati in server, conform fisierului de configurare, detaliile despre acesta. -SONIA + creare fisier configurare
+  4. Permiteti clientului sa poata trimita mesaje broadcast pentru descoperirea serverului. -SONIA
+  5. Configurati serverul astfel incat sa identifice mesajul de tip DHCP Discover (mai intai fol o var hardcodata -SONIA---> identificare hardcore , iar mai tarziu conform tipologiei de mesaj)
   6. Structurati mesajele DHCP in functie de formatul headerului acestui protocol.
   7. Implementati algoritmul de "generare" al IP-urilor
   8. Alegerea unui IP de catre server pentru clentul care a trimis DHCP Discover.
