@@ -45,7 +45,7 @@ int main()
 
     //optiunea 0 imi permite reutilizarea portului
     int opt = 1;
-    setsockopt(sockfd, SOL_SOCKET, SO_REUSEADDR | SO_REUSEPORT, &opt, sizeof(opt));
+    setsockopt(sockfd, SOL_SOCKET, SO_REUSEADDR, &opt, sizeof(opt));
 
     //configurez adresa serverului
     memset(&server_addr, 0, sizeof(server_addr));
