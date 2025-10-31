@@ -21,8 +21,8 @@ Lab3 (Comunicare UDP, DHCP Discover, DHCP Offer, incarcare configuratie, generar
   2. Creati o comunicare UDP Client-Server (Server sa permita conexiunea cu mai multi clienti) -SONIA + ANDREEA
   3. Incarcati in server, conform fisierului de configurare, detaliile despre acesta. -SONIA + creare fisier configurare
   4. Permiteti clientului sa poata trimita mesaje broadcast pentru descoperirea serverului. -SONIA
-  5. Configurati serverul astfel incat sa identifice mesajul de tip DHCP Discover (mai intai fol o var hardcodata -SONIA---> identificare hardcore , iar mai tarziu conform tipologiei de mesaj)
-  6. Structurati mesajele DHCP in functie de formatul headerului acestui protocol.
-  7. Implementati algoritmul de "generare" al IP-urilor
-  8. Alegerea unui IP de catre server pentru clentul care a trimis DHCP Discover.
-  9. Creati mesajul de tip DHCP Offer, realizati implementarea, gestionarea si trimiterea acestuia (broadcast) catre client.
+  5. Configurati serverul astfel incat sa identifice mesajul de tip DHCP Discover (mai intai fol o var hardcodata -SONIA---> identificare hardcore , iar mai tarziu conform tipologiei de mesaj - ANDREEA)
+  6. Structurati mesajele DHCP in functie de formatul headerului acestui protocol. - ANDREEA
+  7. Implementati algoritmul de "generare" al IP-urilor - ANDREEA
+  8. Alegerea unui IP de catre server pentru clentul care a trimis DHCP Discover. - ANDREEA
+  9. Creati mesajul de tip DHCP Offer, realizati implementarea, gestionarea si trimiterea acestuia (broadcast) catre client. - ANDREEA
